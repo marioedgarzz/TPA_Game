@@ -1,0 +1,334 @@
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\mscorlib.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\System.Core.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\System.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\System.Xml.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\System.Xml.Linq.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.Locator.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEditor.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UI.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityScript.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityScript.Lang.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.Cecil.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.DataContract.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\ExCSS.Unity.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.IvyParser.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Unity.CecilTools.dll
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEditor.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UI.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\MR19-2_TPAUnity\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\MR19-2_TPAUnity\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\MR19-2_TPAUnity\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\mscorlib.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\System.Core.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\System.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\System.Xml.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\System.Xml.Linq.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.Locator.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEditor.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UI.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityScript.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityScript.Lang.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.Cecil.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.DataContract.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\ExCSS.Unity.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.IvyParser.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\Unity.CecilTools.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEditor.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.UI.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\NAR 19-2\TPA\MR19-2_TPAUnity\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MR19-2_TPAUnity", "Assembly-CSharp-firstpass.csproj", "{FEDAD0C2-C5B8-F33B-7A49-0EA035F6075F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MR19-2_TPAUnity", "Assembly-CSharp.csproj", "{AAF35175-FFDB-4A72-4220-7CABA39C0E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDAD0C2-C5B8-F33B-7A49-0EA035F6075F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDAD0C2-C5B8-F33B-7A49-0EA035F6075F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDAD0C2-C5B8-F33B-7A49-0EA035F6075F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDAD0C2-C5B8-F33B-7A49-0EA035F6075F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF35175-FFDB-4A72-4220-7CABA39C0E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF35175-FFDB-4A72-4220-7CABA39C0E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF35175-FFDB-4A72-4220-7CABA39C0E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF35175-FFDB-4A72-4220-7CABA39C0E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
